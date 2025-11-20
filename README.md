@@ -14,7 +14,7 @@ Answer briefly
 1. **Purpose and Motivation**  
    Why was SysML created? What limitations of UML does it address?
 
- SysML was created because UML is too software-centric. SysML fills the gaps when you need to model hardware, mechanics, energy flows, sensors, and cross-disciplinary systems.
+ SysML exists because UML focuses on software. SysML fills the gap for complete systems by supporting hardware, mechanics, electronics, energy flows, and requirements that UML can’t model.
 
 
 3. **Modeling Perspective**  
@@ -87,5 +87,5 @@ SysML combines all of that — hardware + logic + behavior + requirements — in
 
 1. Create a BDD diagram focusing on the hardware components of a [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris) (try to think of everyting).
 2. Create a UML Component diagram for the same [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris).
-
+![uml_chart](tetris_uml.png "Tetris Cabinet UML")
 ---
